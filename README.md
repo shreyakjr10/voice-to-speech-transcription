@@ -1,2 +1,2 @@
 # voice-to-speech-transcription
-#simple app to transcribe voics to text
+simple app to transcribe voices to texts
