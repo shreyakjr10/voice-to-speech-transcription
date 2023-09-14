@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@shreyakjr10 
-streamlit
-/
-example-app-speech-to-text-transcription
-Public
-Fork your own copy of streamlit/example-app-speech-to-text-transcription
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-example-app-speech-to-text-transcription/streamlit_app.py /
-@CharlyWargnier
-CharlyWargnier replaced emoji
-Latest commit 41ae721 on Jan 11, 2022
- History
- 1 contributor
-113 lines (84 sloc)  3.17 KB
- 
-
 # Libraries to be used ------------------------------------------------------------
 
 import streamlit as st
@@ -142,18 +111,3 @@ if f is not None:
 else:
     path_in = None
     st.stop()
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-example-app-speech-to-text-transcription/streamlit_app.py at main · streamlit/example-app-speech-to-text-transcription
